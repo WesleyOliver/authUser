@@ -1,0 +1,4 @@
+package com.wesoliver.authUser.repositorys;
+
+public interface UsesrCoursesRepository {
+}

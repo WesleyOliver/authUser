@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: ${PROFILE:dsv}
+
+application:
+  title: @project.name@
+  version: @project.version@
